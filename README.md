@@ -1,4 +1,4 @@
-<h1>Hi, I'm Calin! <br/><a href="https://github.com/ItsCalin">Programmer</a>, <a href="https://www.linkedin.com/in/calin-dirla-6088572b6/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Calin! <br/><a href="https://github.com/ItsCalin">Programmer</a>, <a href="https://www.linkedin.com/in/calin-dirla-6088572b6/"></a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 General Projects:</h2>
 
