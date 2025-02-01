@@ -13,7 +13,7 @@ Simple dice game: https://www.youtube.com/watch?v=-CL85Zh8W3s
 
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: [https://www.instagram.com/caliinn_/]
+[instagram]: https://www.instagram.com/caliinn_/
 
 
 <!--
