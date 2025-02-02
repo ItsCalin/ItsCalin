@@ -3,7 +3,7 @@
 <h2>👨‍💻 General Projects:</h2>
 
 - <b> dice game(Python)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/ItsCalin/Dice-game)
 
 <h2>📺  YouTube Videos</h2>
 
@@ -11,7 +11,7 @@ Simple dice game: https://www.youtube.com/watch?v=-CL85Zh8W3s
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="caliinn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/caliinn_/
 
